@@ -1,0 +1,21 @@
+#include <iostream>
+
+void sumOfNaturalNumbers(int n) {
+    int sum = 0;       // Accumulator variable to track the total sum
+    int counter = 1;   // Loop counter starting at 1
+
+    // Loop continues as long as counter is less than or equal to n
+    while (counter <= n) {
+        sum += counter; // Add current counter value to total sum
+        counter++;      // Increment counter
+    }
+
+    std::cout << "Sum of numbers from 1 to " << n << " = " << sum << "\n";
+}
+
+int main() {
+    std::cout << "Input: n = 5\nOutput: ";
+    sumOfNaturalNumbers(5);
+
+    return 0;
+}
