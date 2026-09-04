@@ -8,6 +8,25 @@
 - questions done
 
 
+## 28-08-2026 — Session 1
+
+### Topic
+- Coding Practice
+
+### Work Done
+- Practiced basic coding problems.
+- Solved class problems and assignment problems.
+- Practiced problem-solving and programming fundamentals.
+- Organized the work into `class_problems` and `assignment_problems`.
+
+### Next Steps
+- Continue practicing coding problems.
+- Improve problem-solving skills.
+
+### Issues
+- No major issues.
+
+
 
 ## 30-08-2026 — Session 3
 
