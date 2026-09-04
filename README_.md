@@ -28,7 +28,7 @@
 
 
 
-## 30-08-2026 — Session 3
+## 30-08-2026 — Session 2
 
 ### Topics
 - Array
