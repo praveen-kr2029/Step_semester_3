@@ -7,6 +7,30 @@
 - Repository setup started.
 - questions done
 
+
+
+## 30-08-2026 — Session 3
+
+### Topics
+- Array
+- Package
+- General Coding
+
+### Work Done
+- Studied and practiced Arrays.
+- Learned about Packages in Java.
+- Practiced general coding problems.
+- Completed class problems and assignment problems.
+- Organized the work into `class_problems` and `assignment_problems`.
+- Pushed Session 3 work to `feature/session_3`.
+
+### Next Steps
+- Practice more array and general coding problems.
+- Continue with the next session.
+
+### Issues
+- No major issues.
+
 ## 04-09-2026 — Session 4: Arrays
 
 ### Work Done
