@@ -88,3 +88,24 @@
 
 ### Issues
 - No major issues.
+
+
+
+## 05-09-2026 — Session 5
+
+### Topic
+- Strings
+
+### Work Done
+- Solved string-related coding problems.
+- Completed class problems related to strings.
+- Completed assignment problems related to strings.
+- Organized the problems into `class_problems` and `assignment_problems`.
+- Pushed the work to `feature/session_5`.
+
+### Next Steps
+- Practice more string-related problems.
+- Continue with the next session.
+
+### Issues
+- No major issues.
