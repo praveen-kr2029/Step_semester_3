@@ -109,3 +109,17 @@
 
 ### Issues
 - No major issues.
+
+
+
+###12-09-2026 — Session 5
+
+###Topic
+SESSION 6
+
+###Work Done
+Solved related coding problems.
+Completed class problems related to strings.
+Completed assignment problems related to strings.
+Organized the problems into class_problems and assignment_problems.
+Pushed the work to feature/session_6.
