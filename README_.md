@@ -112,14 +112,13 @@
 
 
 
-###12-09-2026 — Session 5
+### 12-09-2026 — Session 6
 
-###Topic
+### Topic
+
 SESSION 6
 
-###Work Done
-Solved related coding problems.
-Completed class problems related to strings.
-Completed assignment problems related to strings.
-Organized the problems into class_problems and assignment_problems.
-Pushed the work to feature/session_6.
+### Work Done
+
+Solved related coding problems. Completed class problems related to strings. Completed assignment problems related to strings. Organized the problems into `class_problems` and `assignment_problems`. Pushed the work to `feature/session_6`.
+
