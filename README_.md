@@ -122,3 +122,22 @@ SESSION 6
 
 Solved related coding problems. Completed class problems related to strings. Completed assignment problems related to strings. Organized the problems into `class_problems` and `assignment_problems`. Pushed the work to `feature/session_6`.
 
+
+## 19-09-2026 — Session 7
+
+### Topic
+- Encapsulation
+
+### Work Done
+- Practiced C++ programs based on Encapsulation.
+- Completed practice/class problems.
+- Worked on problems involving classes, constructors, private data members, and member functions.
+- Added the practice problems to `feature/session_7`.
+
+### Next Steps
+- Practice more Encapsulation problems.
+- Continue with the next session.
+
+### Issues
+- No major issues.
+
