@@ -141,3 +141,23 @@ Solved related coding problems. Completed class problems related to strings. Com
 ### Issues
 - No major issues.
 
+
+
+## 26-09-2026 — Session 8
+
+### Topic
+- OOPs Fundamental
+
+### Work Done
+- Practiced fundamental OOP concepts in C++.
+- Completed class problems related to OOPs.
+- Completed assignment problems related to OOPs.
+- Organized the work into `class_problems` and `assignment_problems`.
+- Pushed the work to `feature/session_8`.
+
+### Next Steps
+- Practice more OOPs problems.
+- Continue with the next session.
+
+### Issues
+- No major issues.
