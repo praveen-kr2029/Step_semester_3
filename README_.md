@@ -161,3 +161,20 @@ Solved related coding problems. Completed class problems related to strings. Com
 
 ### Issues
 - No major issues.
+
+## 03-10-2026
+
+### Topic
+- Abstraction
+
+### Work Done
+- Learned and practiced Abstraction in C++.
+- Solved abstraction-related coding problems.
+- Completed class/practice problems.
+
+### Next Steps
+- Practice more OOP concepts.
+- Continue with the next session.
+
+### Issues
+- No major issues.
