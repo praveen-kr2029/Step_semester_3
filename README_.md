@@ -199,3 +199,25 @@ Solved related coding problems. Completed class problems related to strings. Com
 ### Issues
 - No major issues.
 
+
+
+
+## 31-10-2026 — DSA Practice
+
+### Topic
+- Data Structures and Algorithms (DSA)
+
+### Work Done
+- Solved DSA-related coding problems.
+- Practiced problem-solving and logical thinking.
+- Improved understanding of algorithms and data structures.
+- Analyzed time and space complexity of solutions.
+
+### Next Steps
+- Solve more DSA problems.
+- Practice different problem-solving approaches.
+- Improve coding efficiency.
+
+### Issues
+- No major issues.
+
